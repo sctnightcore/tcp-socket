@@ -1,3 +1,3 @@
 # tcp socket c++
 
-a sample code
+a sample example 
